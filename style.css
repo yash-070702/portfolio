@@ -381,18 +381,18 @@ height:30px;
     z-index: 3;
 }
 #project1{
-    background-image: url('./images/tint.png');
+    background-image: url('./images/Screenshot\ 2024-01-27\ 145756.png');
 }
 #project2{
-background-image: url("./images/ggym.webp");
+background-image: url("./images/Screenshot\ 2024-01-27\ 150352.png");
 }
 
 #project3{
-    background-image: url('./images/music-colab.jpg');
+    background-image: url('./images/Screenshot\ 2024-01-27\ 150934.png');
 }
 
 #project4{
-    background-image: url('./images/clothing.png');
+    background-image: url('./images/Screenshot\ 2024-01-27\ 151303.png');
 }
 
 .project-card::after{
